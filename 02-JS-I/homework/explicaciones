@@ -1,0 +1,15 @@
+Variables: Una Variable es una palabra a la que se le asigna un valor para trabajar con ella dentro del entorno de programacion.
+puede ser casi cualquier palabra, menos las que estan reservadas por el lenguaje de programacion.
+
+strings: Los strings son hilos de texto, van siempre entre comillas y solo funcionan como texto. Pueden ser de una palabra o varias.
+
+Funciones: Una funcion es un Objeto al cual podemos dar un nombre y especificar mediante argumentos y codigo, que queremos que haga por nosotros.
+es especialmente util si necesitamos ejecutar cierto bloque de codigo repetidas veces, ese bloque de codigo podemos resumirlo en una funcion que con solo invocarla nos ahorrara tiempo
+Argumentos: Los Argumentos son Objetos que van situados dentro de los parentesis de una funcion, generalmente son variables a las q se le pueden asignar valor dentro de la funcion. Se puede agregar mas de un argumento separando con una coma entre ellos.
+Return: es una declaracion que permite devolver lo que tiene dentro una funcion, es la forma en que esa funcion al ejecutarse nos muestra el resultado de esa ejecucion. Cuando una funcion llega a la declaracion return, detiene todo lo que esta haciendo. Todo el codigo posterior a una declaracion de return no se ejecutara.
+
+Declaraciones: if es un operador de control de flujo, se usa generalmente con los valores booleanos de true y false. Nos permite definir algo,  que en el caso de no cumplirse, continue ejecutandose otro bloque de codigo con una accion diferente.
+
+Valores Booleanos: true: significa verdadero, si se cumple la accion que queremos se actuara de cierta forma.
+false: falso, de no cumplirse lo establecido se llevara a cabo cierta accion.
+
