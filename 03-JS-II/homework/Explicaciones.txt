@@ -1,0 +1,14 @@
+HOMEWORK JS II
+
+Explicaciones
+
+
+
+ -for: Es una expresion de bucle que actua sobre una variable, consta de 3 partes, la variable sobre la que va a actuar, la condicion que va a frenar la ejecucion del bucle,
+y la forma en la que se va a incrementar la variable.
+ 
+ -&&: Significa "Y", es un operador logico que evalua dos expresiones, si las 2 son verdaderas, devolvera el valor true. De lo contrario false.
+
+ -||: Significa "O", es un operador logico que evalua dos expresiones, si una o las 2 expresiones 2 son verdaderas, devolvera el valor true. De lo contrario false.
+
+ -!: Significa "NO", es un operador logico que evalua una expresion y devuelve lo contrario a esta. Por ejemplo !== (no es igual), !false (no es falso), etc. 
